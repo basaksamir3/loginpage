@@ -1,0 +1,225 @@
+body{
+	background-color: #E5E4E2;
+}
+#header{
+	padding: 15px;
+	height: 45px;
+	width: 100%;
+	background-color:#313a46;
+
+	}
+.image{
+	height: 50px;
+	width:auto;
+	float: left;
+
+	}
+.text{
+	height: 50px;
+	width:auto;
+	float: left;
+	padding-left: 15px;
+	padding-bottom: 15px;
+	color: white;
+
+	}
+.submit{
+	height: 50px;
+	width:auto;
+	float: left;
+	padding-left: 30px;
+	padding-top: 15px;
+	font-size: 20px;
+	border-style:solid 10px;
+
+	}
+#maindiv{
+	margin: 30px;
+	height: 700px;
+	width: auto;
+	background-color:#E5E4E2;
+
+}
+
+.div-left{
+	height: 670px;
+	width: 200px;
+	background-color:white;
+	float: left;
+	border-radius: 5px;
+	margin-top: 30px;
+
+
+}
+.div-right{
+	height: 700px;
+	width: 925px;
+	background-color:#E5E4E2;
+	margin-left: 30px;
+	margin-right: 30px;
+	float: left;
+
+}
+.dashboard{
+	margin-top:30px;
+	height: 100px;
+	width: 100%;
+	background-color:white;
+	border-radius: 5px;
+}
+.dashboard h1{
+	padding-top: 30px;
+	padding-left: 20px;
+}
+.information1{
+	height: 200px;
+	background-color:#E5E4E2;
+	width: 100%;
+	margin-top: 30px;
+	
+}
+.information2{
+	height: 200px;
+	background-color:#E5E4E2;
+	width: 100%;
+	margin-top: 30px;
+}
+.student{
+	height: 200px;
+	width: 288px;
+	background-color:white;
+	float: left;
+	/*margin-left: 30px;*/
+	border-radius: 5px;
+
+}
+.teacher{
+	height: 200px;
+	width: 288px;
+	background-color:white;
+	float: left;
+	margin-left: 30px;
+	border-radius: 5px;
+
+}
+.attendance{
+	height: 200px;
+	width: 288px;
+	background-color:#4863A0;
+	float: left;
+	margin-left: 30px;
+	border-radius: 5px;
+	color: white;
+
+}
+
+.parents{
+	height: 200px;
+	width: 288px;
+	background-color:white;
+	float: left;
+	/*margin-left: 30px;*/
+	border-radius: 5px;
+
+}
+.staff{
+	height: 200px;
+	width: 288px;
+	background-color:white;
+	float: left;
+	margin-left: 30px;
+	border-radius: 5px;
+
+}
+.recentevent{
+	height: 150px;
+	width: 288px;
+	background-color:white;
+	float: left;
+	margin-left: 30px;
+	border-radius: 5px;
+
+}
+
+.information1 p{
+	padding-left: 20px;
+	padding-top: 10px;
+	
+}
+.information2 p{
+	padding-left: 20px;
+	padding-top: 10px;
+	
+}
+.recentevent p {
+	
+	padding-left: 30px;
+	padding-top: 30px;
+}
+
+.a{
+	height: 100px;
+	width:100%;
+	/*background-color: blue;*/
+	text-align: center;
+}
+.b{
+	height: 50px;
+	width:180px;
+	/*background-color: white;*/
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.c{
+	height: 50px;
+	width:170px;
+	/*background-color: blue;*/
+	margin-left: 30px;
+
+}
+.d{
+	height: 50px;
+	width:170px;
+	/*background-color: white;*/
+	margin-left: 30px;
+}
+.e{
+	height: 50px;
+	width:170px;
+/*	background-color: blue;*/
+	margin-left: 30px;
+
+}
+
+.f{
+	height: 50px;
+	width:170px;
+	/*background-color: white;*/
+	margin-left: 30px;
+
+}
+.g{
+	height: 50px;
+	width:170px;
+	/*background-color: blue;*/
+	margin-left: 30px;
+}
+.h{
+	height: 50px;
+	width:170px;
+	/*background-color: white;*/
+	margin-left: 30px;
+}
+
+.fotter{
+	height: 100px;
+	width:100%;
+	border-radius: 5px;
+	background-color: white;
+	margin-top: 10px;
+}
+.fotter p{
+	color: blue;
+	margin-left: 20px;
+
+}
